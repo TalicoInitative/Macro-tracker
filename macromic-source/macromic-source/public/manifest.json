@@ -1,0 +1,12 @@
+{
+  "name": "MacroMic",
+  "short_name": "MacroMic",
+  "description": "AI voice macro tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090F",
+  "theme_color": "#07090F",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
